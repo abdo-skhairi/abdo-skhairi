@@ -5,3 +5,4 @@ I study at 1337 School in Tetuan, Morocco, and at the same time, I'm pursuing a 
 Beyond coding, I'm also a music producer and sound engineer, though I focus mainly on programming these days!
 
 Feel free to check out my work and connect with me!
+skahiri.abderahmane@gmail.com
