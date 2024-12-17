@@ -5,3 +5,6 @@ I study at 1337 School in Tetuan, Morocco (42 network), and at the same time, I'
 Beyond coding, I'm also a music producer and sound engineer, though I focus mainly on programming these days!
 
 Feel free to check out my work and connect with me!
+
+
+https://badge.mediaplus.ma/greenbinary/sabderra
