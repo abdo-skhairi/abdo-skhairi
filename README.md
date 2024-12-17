@@ -6,6 +6,20 @@ Beyond coding, I'm also a music producer and sound engineer, though I focus main
 
 Feel free to check out my work and connect with me!
 
-<div align="center" dir="auto">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <a href="https://badge.mediaplus.ma/greenbinary/sabderra" rel="nofollow"><img src="https://camo.githubusercontent.com/82d83b5a0f8c60d2f75a6a30d4fd0921a60022472b7f0935beeaa5eed5e4bba9/68747470733a2f2f62616467652e6d65646961706c75732e6d612f677265656e62696e6172792f7361626465727261" alt="ahajji's 42 stats" data-canonical-src="https://badge.mediaplus.ma/greenbinary/sabderra" style="max-width: 100%;"></a>
-</div>
+
